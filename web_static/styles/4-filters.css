@@ -24,3 +24,9 @@
   .filters button:hover {
     background-color: rgba(255, 90, 95, .9);
   }
+
+  .filters locations amenities {
+    height: 100%;
+    width: 25%;
+    border-right: #DDDDDD 1px solid;
+  }
